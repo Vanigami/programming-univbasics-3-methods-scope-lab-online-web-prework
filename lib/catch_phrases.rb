@@ -9,4 +9,6 @@ def toadstool
 end
 
 def link
-  
+  catchphrase = "It's Dangerous To Go Alone! Take this."
+  puts catchphrase
+end
