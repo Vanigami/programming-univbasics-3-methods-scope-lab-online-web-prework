@@ -9,5 +9,5 @@ def toadstool
 end
 
 def link
-  link = '
+  prase = ""
 end
