@@ -9,5 +9,6 @@ def toadstool
 end
 
 def link
-  prase = ""
+  prase = "It's Dangerous To Go Alone! Take This."
+  puts prase
 end
